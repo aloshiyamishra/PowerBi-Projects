@@ -130,6 +130,9 @@ Road accidents result in significant loss of life and property every year. Under
 * Automated alerts for high-risk conditions
 
 ---
+https://github.com/aloshiyamishra/PowerBi-Projects/blob/cc2f97d918c0b01b851812e3babee28976674552/Screenshot%202025-12-18%20171510.png
+
+https://github.com/aloshiyamishra/PowerBi-Projects/blob/cc2f97d918c0b01b851812e3babee28976674552/Screenshot%202025-12-18%20171510.png
 
 ## Author
 
