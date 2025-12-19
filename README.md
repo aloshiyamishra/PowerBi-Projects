@@ -132,7 +132,7 @@ Road accidents result in significant loss of life and property every year. Under
 ---
 ![Road Accident Analysis Dashboard](https://github.com/aloshiyamishra/PowerBi-Projects/blob/cc2f97d918c0b01b851812e3babee28976674552/Screenshot%202025-12-18%20171510.png)
 
-![Road Accident Analysis Dashboard](https://github.com/aloshiyamishra/PowerBi-Projects/blob/cc2f97d918c0b01b851812e3babee28976674552/Screenshot%202025-12-18%20171510.png)
+![Road Accident Analysis Dashboard](https://github.com/aloshiyamishra/PowerBi-Projects/blob/7cbcc7e3b6ffc3ebcb5b7d53a12709e6715b6246/Screenshot%202025-12-18%20171533.png)
 
 ## Author
 
